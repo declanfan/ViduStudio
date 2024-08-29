@@ -1,1 +1,2 @@
-# ViduStudio
+Vidu Studio's AI video generator offers a straightforward interface and streamlined features that make video production simple for everyone. Regardless of your skill level, this platform helps you quickly bring your video ideas to life. From dynamic scene creation to text and image conversion, Vidu AI supports a smooth and enjoyable creative process. Its accessible tools make it easy for beginners to start creating.
+https://vidustudio.org/
